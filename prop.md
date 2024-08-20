@@ -36,6 +36,11 @@ to read qr codes. We will need to add that and a new flow for hardware wallets.
 
 On top of that we will want a buffer for the unexpected, testing, and bug fixes.
 
+# Who
+
+To be done by any decred contractors. Those that have shown interest are warrior,
+martonp, philemon, the cryptopower devs, and I.
+
 # Work
 
 We anticipate costs in the range of **90k USD**.
