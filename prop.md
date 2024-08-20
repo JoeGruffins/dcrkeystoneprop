@@ -2,7 +2,7 @@
 
 We are attempting to add decred to the [Keystone](https://keyst.one/) hardware
 wallet. The people over at Keystone have been very receptive to adding us. This
-prop aims to add Keystone support to their hardware and Decrediton.
+prop aims to add Keystone support to their hardware and our software.
 
 # Why
 
