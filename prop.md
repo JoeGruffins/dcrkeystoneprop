@@ -9,13 +9,13 @@ prop aims to add Keystone support to their hardware and our software.
 Keystone recently added xmr and is starting to take off. It would be good to get
 in on the ground floor. In a future prop we may be able to add hardware staking
 finally. This has not been possible with trezor and ledger due to extreme feet
-dragging on their part. Cake will also be adding keystone support, so this goes
+dragging on their part. Cake will also be adding Keystone support, so this goes
 hand in hand with that effort as well.
 
 # QR Codes
 
 Decrediton has support for Ledger and Trezor hardware wallets over usb. However,
-the keystone wallet only gets and receives data over QR Code. This means it isn't
+the Keystone wallet only gets and receives data over QR Code. This means it isn't
 great for use with desktop wallets. In order to ensure the user has a camera to
 read data from Keystone we are planning to add support on our side to cryptopower.
 
@@ -24,7 +24,7 @@ like to add it to Decrediton.
 
 # Details
 
-On the keystone side, dcr curently does not exist. This means we need to add it
+On the Keystone side, dcr curently does not exist. This means we need to add it
 which is half of the required work.
 
 Along with the hardware wallet, which only signs data, we need a watching only
