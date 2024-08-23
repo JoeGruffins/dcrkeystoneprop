@@ -1,10 +1,10 @@
-# Introduction
+## Introduction
 
 We are attempting to add decred to the [Keystone](https://keyst.one/) hardware
 wallet. The people over at Keystone have been very receptive to adding us. This
 prop aims to add Keystone support to their hardware and our software.
 
-# Why
+## Why
 
 Keystone recently added xmr and is starting to take off. It would be good to get
 in on the ground floor. In a future prop we may be able to add hardware staking
@@ -12,7 +12,7 @@ finally. This has not been possible with trezor and ledger due to extreme feet
 dragging on their part. Cake will also be adding Keystone support, so this goes
 hand in hand with that effort as well.
 
-# QR Codes
+## QR Codes
 
 Decrediton has support for Ledger and Trezor hardware wallets over usb. However,
 the Keystone wallet only gets and receives data over QR Code. This means it isn't
@@ -22,7 +22,7 @@ read data from Keystone we are planning to add support on our side to cryptopowe
 In the future, Keystone will be adding usb support. At that time we would also
 like to add it to Decrediton.
 
-# Details
+## Details
 
 On the Keystone side, dcr curently does not exist. This means we need to add it
 which is half of the required work.
@@ -36,12 +36,12 @@ to read qr codes. We will need to add that and a new flow for hardware wallets.
 
 On top of that we will want a buffer for the unexpected, testing, and bug fixes.
 
-# Who
+## Who
 
 To be done by any decred contractors. Those that have shown interest are warrior,
 martonp, philemon, the cryptopower devs, and I.
 
-# Work
+## Work
 
 We anticipate costs in the range of **90k USD**.
 
